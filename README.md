@@ -29,7 +29,7 @@ Hayyhum aims to simplify the process of discovering and booking experiences acro
 
 The project is deployed using GitHub Pages:
 
-[View Hayyhum Website](https://hess72.github.io/Hayhyum/)
+[View Hayyhum Website](https://amal-111.github.io/Hayyhum/)
 
 ## Team Members
 
