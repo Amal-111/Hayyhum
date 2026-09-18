@@ -1,12 +1,10 @@
 # Hayyhum | حيّهم
 
-Hayyhum is a web-based platform developed as part of a Web Engineering course at King Saud University.
-
-The platform is designed to provide a centralized experience-booking service in Saudi Arabia, allowing users to explore and book activities, hotels, and restaurants.
+Hayyhum is a web engineering project for a Saudi experience-booking platform that allows users to explore and book activities, hotels, and restaurants.
 
 ## Project Overview
 
-Hayyhum aims to simplify the process of discovering and booking experiences across Saudi Arabia. The system provides interfaces for customers and service providers, supporting service management, booking requests, staff management, and customer evaluations.
+The platform provides dedicated interfaces for customers and service providers, supporting booking requests, service and staff management, and customer evaluations.
 
 ## Key Features
 
